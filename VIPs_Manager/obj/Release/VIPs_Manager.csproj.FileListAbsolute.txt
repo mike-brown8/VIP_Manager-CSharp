@@ -1,0 +1,14 @@
+C:\Users\nohui.DESKTOP-3Q8AB3G\source\repos\mike-brown8\VIP_Manager-CSharp\VIPs_Manager\bin\Release\VIPs_Manager.exe.config
+C:\Users\nohui.DESKTOP-3Q8AB3G\source\repos\mike-brown8\VIP_Manager-CSharp\VIPs_Manager\bin\Release\VIPs_Manager.exe
+C:\Users\nohui.DESKTOP-3Q8AB3G\source\repos\mike-brown8\VIP_Manager-CSharp\VIPs_Manager\bin\Release\VIPs_Manager.pdb
+C:\Users\nohui.DESKTOP-3Q8AB3G\source\repos\mike-brown8\VIP_Manager-CSharp\VIPs_Manager\obj\Release\VIPs_Manager.csproj.AssemblyReference.cache
+C:\Users\nohui.DESKTOP-3Q8AB3G\source\repos\mike-brown8\VIP_Manager-CSharp\VIPs_Manager\obj\Release\VIPs_Manager.AboutBox1.resources
+C:\Users\nohui.DESKTOP-3Q8AB3G\source\repos\mike-brown8\VIP_Manager-CSharp\VIPs_Manager\obj\Release\VIPs_Manager.Form1.resources
+C:\Users\nohui.DESKTOP-3Q8AB3G\source\repos\mike-brown8\VIP_Manager-CSharp\VIPs_Manager\obj\Release\VIPs_Manager.Properties.Resources.resources
+C:\Users\nohui.DESKTOP-3Q8AB3G\source\repos\mike-brown8\VIP_Manager-CSharp\VIPs_Manager\obj\Release\VIPs_Manager.csproj.GenerateResource.cache
+C:\Users\nohui.DESKTOP-3Q8AB3G\source\repos\mike-brown8\VIP_Manager-CSharp\VIPs_Manager\obj\Release\VIPs_Manager.csproj.CoreCompileInputs.cache
+C:\Users\nohui.DESKTOP-3Q8AB3G\source\repos\mike-brown8\VIP_Manager-CSharp\VIPs_Manager\obj\Release\VIPs_Manager.exe
+C:\Users\nohui.DESKTOP-3Q8AB3G\source\repos\mike-brown8\VIP_Manager-CSharp\VIPs_Manager\obj\Release\VIPs_Manager.pdb
+C:\Users\nohui.DESKTOP-3Q8AB3G\source\repos\mike-brown8\VIP_Manager-CSharp\VIPs_Manager\bin\Release\byn-ER\VIPs_Manager.resources.dll
+C:\Users\nohui.DESKTOP-3Q8AB3G\source\repos\mike-brown8\VIP_Manager-CSharp\VIPs_Manager\obj\Release\VIPs_Manager.Form1.byn-ER.resources
+C:\Users\nohui.DESKTOP-3Q8AB3G\source\repos\mike-brown8\VIP_Manager-CSharp\VIPs_Manager\obj\Release\byn-ER\VIPs_Manager.resources.dll
